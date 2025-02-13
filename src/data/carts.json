@@ -1,0 +1,23 @@
+{
+  "carts": [
+    {
+      "id": "1",
+      "userId": "3",
+      "items": [
+        {
+          "id": "1",
+          "productId": "1",
+          "quantity": 1,
+          "price": 1299.99
+        },
+        {
+          "id": "2",
+          "productId": "2",
+          "quantity": 2,
+          "price": 199.99
+        }
+      ],
+      "totalAmount": 1699.97
+    }
+  ]
+} 

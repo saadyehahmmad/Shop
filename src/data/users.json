@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@shop.com",
+      "password": "$2b$10$XOPbrlUPQdwdJUpSrIF6X.LbE14qsMmKGhM1A8W9iqDp1IwQB.Jem",
+      "username": "admin",
+      "role": "Admin"
+    },
+    {
+      "id": "2",
+      "email": "seller@shop.com",
+      "password": "$2b$10$XOPbrlUPQdwdJUpSrIF6X.LbE14qsMmKGhM1A8W9iqDp1IwQB.Jem",
+      "username": "seller1",
+      "role": "Seller"
+    },
+    {
+      "id": "3",
+      "email": "customer@shop.com",
+      "password": "$2b$10$XOPbrlUPQdwdJUpSrIF6X.LbE14qsMmKGhM1A8W9iqDp1IwQB.Jem",
+      "username": "customer1",
+      "role": "Customer"
+    }
+  ]
+} 

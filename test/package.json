@@ -1,0 +1,18 @@
+{
+  "name": "shop-api-tests",
+  "version": "1.0.0",
+  "description": "API tests for Shop API",
+  "main": "apitester.js",
+  "scripts": {
+    "test": "node apitester.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
