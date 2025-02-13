@@ -83,12 +83,6 @@ For any questions or support, please contact us at:
 
 Email: [saadyehahmmad@gmail.com](mailto:saadyehahmmad@gmail.com)    
 
-## 📚 Documentation
-
-Shop API is fully documented with Swagger. Access the API documentation at:
-
-http://localhost:3000/api-docs  
-
 
 
 
